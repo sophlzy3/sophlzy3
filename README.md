@@ -12,7 +12,7 @@ I'm **Sophie Liu**, an passionate engineering student from Toronto, Canada.
 - 🛠️ I love working with Python, C++, and ROS, and I'm always excited to explore new ideas in robotics and AI.
 - 🤖 My interests include machine learning, embodied AI, robotics, and UI design. 
 - 🔭 Currently working on Bayesian Optimization under uncertainty.
-- - ⚡ Fun fact: I'm a hobby photographer who loves experimenting with digital technilogies and 35mm film. 
+- ⚡ Fun fact: I'm a hobby photographer who loves experimenting with digital technilogies and 35mm film. 
 <!--
 - 🌱 Currently learning
 - ✏️ I write about my work and share insights at [your blog/medium link if you have one].
@@ -39,7 +39,8 @@ I'm **Sophie Liu**, an passionate engineering student from Toronto, Canada.
 [![Acrobatics Drone](https://github-readme-stats.vercel.app/api/pin/?username=sophlzy3&repo=drone-acrobatics)](https://github.com/sophlzy3/drone-acrobatics)
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophlzy3&layout=compact&langs_count=20&theme=radical&exclude_repo=small-MLE-proj)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophlzy3&layout=compact&hide_border=true&langs_count=20&theme=radical&exclude_repo=small-MLE-proj)
+               
 [![GitHub Streak](https://streak-stats.demolab.com?user=sophlzy3&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## 🌐 Let's Connect

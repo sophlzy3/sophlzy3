@@ -35,7 +35,7 @@ I'm **Sophie Liu**, an passionate engineering student from Toronto, Canada.
 <!--
 - **Cloud:** [e.g., AWS, GCP]
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophlzy3&layout=compact&hide_border=true&langs_count=20&theme=algolia&exclude_repo=small-MLE-proj)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophlzy3&layout=compact&hide_border=true&langs_count=20&theme=vue-dark&exclude_repo=small-MLE-proj)
 
 
 <!--

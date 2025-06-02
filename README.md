@@ -35,13 +35,8 @@ I'm **Sophie Liu**, an passionate engineering student from Toronto, Canada.
 - **Cloud:** [e.g., AWS, GCP]
 -->
 
-# Projects
-[![Acrobatics Drone](https://github-readme-stats.vercel.app/api/pin/?username=sophlzy3&repo=drone-acrobatics)](https://github.com/sophlzy3/drone-acrobatics)
-
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophlzy3&layout=compact&hide_border=true&langs_count=20&theme=radical&exclude_repo=small-MLE-proj)
-               
-[![GitHub Streak](https://streak-stats.demolab.com?user=sophlzy3&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophlzy3&layout=compact&hide_border=true&langs_count=20&theme=radical&exclude_repo=small-MLE-proj)                 [![GitHub Streak](https://streak-stats.demolab.com?user=sophlzy3&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ## 🌐 Let's Connect
 

@@ -26,6 +26,7 @@ I'm **Sophie Liu**, an passionate engineering student from Toronto, Canada.
 - ⚡ Fun fact: ...
 -->
 
+
 ## 🔧 My Tech Stack
 - **Languages:** Python, Swift, Java, C/C++, MATLAB, SystemVerilog, Assembly, HTML/CSS, ROS, SQL (ProgrestQL)
 - **Libraries:** Matplotlib, NumPy, pandas, scikit-learn, scipy, PyTorch
@@ -34,14 +35,20 @@ I'm **Sophie Liu**, an passionate engineering student from Toronto, Canada.
 <!--
 - **Cloud:** [e.g., AWS, GCP]
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophlzy3&layout=compact&hide_border=true&langs_count=20&theme=radical&exclude_repo=small-MLE-proj)
 
+
+<!--
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophlzy3&layout=compact&hide_border=true&langs_count=20&theme=radical&exclude_repo=small-MLE-proj)                 [![GitHub Streak](https://streak-stats.demolab.com?user=sophlzy3&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sophlzy3&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+-->
+
 
 ## 🌐 Let's Connect
 
 - 📫 [Email](mailto:sophiezy.liu@mail.utoronto.ca)
 - 💼 [LinkedIn](https://linkedin.com/in/sophie-liu-szylzz)
 <!-- - 🌟 [Portfolio](https://your-portfolio-link) -->
+
 
 Thanks for stopping by! 🚀

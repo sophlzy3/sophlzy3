@@ -6,13 +6,13 @@ Here are some ideas to get you started:
 
 # Hi there! 👋
 
-I'm **Sophie Liu**, an passionate engineering student from Toronto, Canada. 
+I'm **Sophie Liu**, a passionate engineering student from Toronto, Canada. 
 
-- 🎓 Currently studying Robotics Engineering at University of Toronto. 
+- 🎓 Currently studying Robotics Engineering at the University of Toronto. 
 - 🛠️ I love working with Python, C++, and ROS, and I'm always excited to explore new ideas in robotics and AI.
 - 🤖 My interests include machine learning, embodied AI, robotics, and UI design. 
 - 🔭 Currently working on Bayesian Optimization under uncertainty.
-- ⚡ Fun fact: I'm a hobby photographer who loves experimenting with digital technilogies and 35mm film. 
+- ⚡ Fun fact: I'm a hobby photographer who loves experimenting with digital technologies and 35mm film. 
 <!--
 - 🌱 Currently learning
 - ✏️ I write about my work and share insights at [your blog/medium link if you have one].
@@ -28,7 +28,7 @@ I'm **Sophie Liu**, an passionate engineering student from Toronto, Canada.
 
 
 ## 🔧 My Tech Stack
-- **Languages:** Python, Swift, Java, C/C++, MATLAB, SystemVerilog, Assembly, HTML/CSS, ROS, SQL (ProgrestQL)
+- **Languages:** Python, Swift, Java, C/C++, MATLAB, SystemVerilog, Assembly, HTML/CSS, ROS, SQL (PostgreSQL)
 - **Libraries:** Matplotlib, NumPy, pandas, scikit-learn, scipy, PyTorch
 - **Frameworks:** ROS, React <!-- flask-->
 - **Tools:** Git, VS Code, Linux, LaTeX. [e.g., Git, VS Code, Docker]

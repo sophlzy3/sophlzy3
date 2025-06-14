@@ -31,7 +31,7 @@ I'm **Sophie Liu**, a passionate engineering student from Toronto, Canada.
 - **Languages:** Python, Swift, Java, C/C++, MATLAB, SystemVerilog, Assembly, HTML/CSS, ROS, SQL (PostgreSQL)
 - **Libraries:** Matplotlib, NumPy, pandas, scikit-learn, scipy, PyTorch
 - **Frameworks:** ROS, React <!-- flask-->
-- **Tools:** Git, VS Code, Linux, LaTeX. [e.g., Git, VS Code, Docker]
+- **Tools:** Git, VS Code, Linux, LaTeX. 
 <!--
 - **Cloud:** [e.g., AWS, GCP]
 -->

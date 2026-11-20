@@ -15,4 +15,4 @@ I’m an Engineering Science undergrad at the University of Toronto, majoring in
 
 I mostly work with **Python, C++, PyTorch, ROS 2, and Isaac Sim**. Outside the lab, I shoot digital and 35mm film.
 
-[Website](https://sophie-liu.com/) · [LinkedIn](https://linkedin.com/in/sophie-liu-szylzz) · [Email](mailto:sophiezy.liu@mail.utoronto.ca)
+[Website](https://sophie-liu.com/) · [LinkedIn](https://linkedin.com/in/sophiezyliu) · [Email](mailto:sophiezy.liu@mail.utoronto.ca)

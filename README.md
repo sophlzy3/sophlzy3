@@ -1,54 +1,18 @@
 <!--
 **sophlzy3/sophlzy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 
-# Hi there! 👋
+# Hi, I’m Sophie 👋
 
-I'm **Sophie Liu**, a passionate engineering student from Toronto, Canada. 
+I’m an Engineering Science undergrad at the University of Toronto, majoring in Machine Intelligence. I’m interested in how robots learn to manipulate objects and recover when things don’t go as planned.
 
-- 🎓 Currently studying Robotics Engineering at the University of Toronto. 
-- 🛠️ I love working with Python, C++, and ROS, and I'm always excited to explore new ideas in robotics and AI.
-- 🤖 My interests include machine learning, embodied AI, robotics, and UI design. 
-- 🔭 Currently working on Bayesian Optimization under uncertainty.
-- ⚡ Fun fact: I'm a hobby photographer who loves experimenting with digital technologies and 35mm film. 
-<!--
-- 🌱 Currently learning
-- ✏️ I write about my work and share insights at [your blog/medium link if you have one].
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
 
+- **Robot learning at UTIAS:** I work on bimanual manipulation, from collecting demonstrations to training and evaluating robot policies.
+- **[Agentic Aerial Cinematography](https://acdc-drone.github.io/):** I co-authored a project that turns dialogue and visual references into drone camera trajectories. [Paper](https://arxiv.org/abs/2509.16176) · CoRL 2026 Workshop on Agentic Robotics
+- **Bayesian optimization under uncertainty:** I worked with Gaussian processes to model noisy inputs and make better optimization decisions.
 
-## 🔧 My Tech Stack
-- **Languages:** Python, Swift, Java, C/C++, MATLAB, SystemVerilog, Assembly, HTML/CSS, ROS, SQL (PostgreSQL)
-- **Libraries:** Matplotlib, NumPy, pandas, scikit-learn, scipy, PyTorch
-- **Frameworks:** ROS, React <!-- flask-->
-- **Tools:** Git, VS Code, Linux, LaTeX. 
-<!--
-- **Cloud:** [e.g., AWS, GCP]
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophlzy3&layout=compact&hide_border=true&langs_count=20&theme=catppuccin_mocha&exclude_repo=small-MLE-proj)
+I mostly work with **Python, C++, PyTorch, ROS 2, and Isaac Sim**. Outside the lab, I shoot digital and 35mm film.
 
-
-<!--
-## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=sophlzy3&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
--->
-
-
-## 🌐 Let's Connect
-
-- 📫 [Email](mailto:sophiezy.liu@mail.utoronto.ca)
-- 💼 [LinkedIn](https://linkedin.com/in/sophie-liu-szylzz)
-<!-- - 🌟 [Portfolio](https://your-portfolio-link) -->
-
-
-Thanks for stopping by! 🚀
+[Website](https://sophie-liu.com/) · [LinkedIn](https://linkedin.com/in/sophie-liu-szylzz) · [Email](mailto:sophiezy.liu@mail.utoronto.ca)
